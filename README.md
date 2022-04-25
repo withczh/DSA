@@ -1,2 +1,2 @@
 # DSA
-Data Structures and Algotithms
+Data Structures and Algotithms practices
